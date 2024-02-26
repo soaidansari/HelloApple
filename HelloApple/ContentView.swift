@@ -19,7 +19,7 @@ struct ContentView: View {
             Text("Hello, \(name)")
         }
         .padding()
-        .background(Color.blue)
+        .background(Color.gray)
     }
 }
 
